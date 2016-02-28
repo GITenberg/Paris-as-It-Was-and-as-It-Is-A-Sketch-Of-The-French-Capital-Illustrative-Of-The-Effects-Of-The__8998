@@ -1,0 +1,25 @@
+_repo: Paris-as-It-Was-and-as-It-Is-A-Sketch-Of-The-French-Capital-Illustrative-Of-The-Effects-Of-The__8998
+creator:
+  author:
+    agent_name: Blagdon, Francis William
+    alias: Blagdon, F. W. (Francis William)
+    birthdate: 1778
+    deathdate: 1819
+    gutenberg_agent_id: '2951'
+    url: http://www.gutenberg.org/2009/agents/2951
+description: ''
+gutenberg_bookshelf: France
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8998'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Paris (France) -- Description and travel'
+title: "Paris as It Was and as It Is\r\nA Sketch Of The French Capital, Illustrative\
+  \ Of The Effects Of The Revolution"
+url: http://www.gutenberg.org/ebooks/8998
